@@ -49,6 +49,7 @@ section{
 }
 .col-presentacion{
     max-height: 25em;
+    overflow: hidden;
 }
 .card-body-presentacion
 {
